@@ -1,2 +1,2 @@
 # opencv
-<img src='images/dummy'>
+<img src='images/dummy.jpg'></img>
